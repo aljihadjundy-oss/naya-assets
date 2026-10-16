@@ -1,0 +1,421 @@
+{
+ "repo": "aljihadjundy-oss/naya-assets",
+ "count": 83,
+ "files": [
+  {
+   "path": "01_Avatar/Naya_Avatar_Earrings-Variant.png",
+   "category": "Avatar",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/01_Avatar/Naya_Avatar_Earrings-Variant.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_01_Front.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_01_Front.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_02_Profile-Left.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_02_Profile-Left.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_03_Profile-Right.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_03_Profile-Right.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_04_Three-Quarter.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_04_Three-Quarter.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_05_Look-Up.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_05_Look-Up.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_06_Look-Down.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_06_Look-Down.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_07_High-Angle.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_07_High-Angle.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_08_Low-Angle.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_08_Low-Angle.png"
+  },
+  {
+   "path": "02_Angle-Shots/Naya_Angle_09_Close-Up.png",
+   "category": "Angle-Shots",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/02_Angle-Shots/Naya_Angle_09_Close-Up.png"
+  },
+  {
+   "path": "03_Body-Outfit/Naya_Body_01_Torso_A.png",
+   "category": "Body-Outfit",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/03_Body-Outfit/Naya_Body_01_Torso_A.png"
+  },
+  {
+   "path": "03_Body-Outfit/Naya_Body_02_Torso_B.png",
+   "category": "Body-Outfit",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/03_Body-Outfit/Naya_Body_02_Torso_B.png"
+  },
+  {
+   "path": "03_Body-Outfit/Naya_Outfit_01_Signature-Cream_FullBody_A.png",
+   "category": "Body-Outfit",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/03_Body-Outfit/Naya_Outfit_01_Signature-Cream_FullBody_A.png"
+  },
+  {
+   "path": "03_Body-Outfit/Naya_Outfit_01_Signature-Cream_FullBody_B.png",
+   "category": "Body-Outfit",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/03_Body-Outfit/Naya_Outfit_01_Signature-Cream_FullBody_B.png"
+  },
+  {
+   "path": "03_Body-Outfit/Naya_Outfit_02_Casual-Linen-Denim_FullBody.png",
+   "category": "Body-Outfit",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/03_Body-Outfit/Naya_Outfit_02_Casual-Linen-Denim_FullBody.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_01_High-Ponytail.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_01_High-Ponytail.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_02_Low-Ponytail.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_02_Low-Ponytail.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_03_Messy-Bun.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_03_Messy-Bun.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_04_Sleek-Low-Bun.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_04_Sleek-Low-Bun.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_05_Top-Knot.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_05_Top-Knot.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_06_Twin-Braids.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_06_Twin-Braids.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_07_Side-Braid.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_07_Side-Braid.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_08_French-Fishtail-Braid.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_08_French-Fishtail-Braid.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_09_Half-Up-Half-Down.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_09_Half-Up-Half-Down.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_10_Space-Buns.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_10_Space-Buns.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_11_Twin-Tails.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_11_Twin-Tails.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_12_Bob-Curtain-Bangs.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_12_Bob-Curtain-Bangs.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_13_Long-Waves-Signature.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_13_Long-Waves-Signature.png"
+  },
+  {
+   "path": "04_Hair-Turnaround/Naya_Hair_14_Hijab-Cream.png",
+   "category": "Hair-Turnaround",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/04_Hair-Turnaround/Naya_Hair_14_Hijab-Cream.png"
+  },
+  {
+   "path": "05_Expressions/Naya_Expr_Sheet-A_All-20.png",
+   "category": "Expressions",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/05_Expressions/Naya_Expr_Sheet-A_All-20.png"
+  },
+  {
+   "path": "05_Expressions/Naya_Expr_Sheet-B1_Positive-8.png",
+   "category": "Expressions",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/05_Expressions/Naya_Expr_Sheet-B1_Positive-8.png"
+  },
+  {
+   "path": "05_Expressions/Naya_Expr_Sheet-B2_Neutral-Reaction-6.png",
+   "category": "Expressions",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/05_Expressions/Naya_Expr_Sheet-B2_Neutral-Reaction-6.png"
+  },
+  {
+   "path": "05_Expressions/Naya_Expr_Sheet-B3_Negative-Intense-6.png",
+   "category": "Expressions",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/05_Expressions/Naya_Expr_Sheet-B3_Negative-Intense-6.png"
+  },
+  {
+   "path": "06_Apartment/Naya_Apt_01_Living-Room_v1.png",
+   "category": "Apartment",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/06_Apartment/Naya_Apt_01_Living-Room_v1.png"
+  },
+  {
+   "path": "06_Apartment/Naya_Apt_01_Living-Room_v2-ArcLamp.png",
+   "category": "Apartment",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/06_Apartment/Naya_Apt_01_Living-Room_v2-ArcLamp.png"
+  },
+  {
+   "path": "06_Apartment/Naya_Apt_02_Workspace.png",
+   "category": "Apartment",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/06_Apartment/Naya_Apt_02_Workspace.png"
+  },
+  {
+   "path": "06_Apartment/Naya_Apt_03_Bedroom.png",
+   "category": "Apartment",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/06_Apartment/Naya_Apt_03_Bedroom.png"
+  },
+  {
+   "path": "06_Apartment/Naya_Apt_04_Kitchen.png",
+   "category": "Apartment",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/06_Apartment/Naya_Apt_04_Kitchen.png"
+  },
+  {
+   "path": "06_Apartment/Naya_Apt_05_Balcony.png",
+   "category": "Apartment",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/06_Apartment/Naya_Apt_05_Balcony.png"
+  },
+  {
+   "path": "06_Apartment/Naya_Apt_06_Bathroom.png",
+   "category": "Apartment",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/06_Apartment/Naya_Apt_06_Bathroom.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_01.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_01.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_02.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_02.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_03.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_03.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_04.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_04.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_05.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_05.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_06.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_06.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_07.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_07.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_08.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_08.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_09.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_09.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_10.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_10.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_11.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_11.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_12.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_12.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_13.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_13.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_14.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_14.png"
+  },
+  {
+   "path": "07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_15.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/01_Standing/Naya_PoseRef_Standing_15.png"
+  },
+  {
+   "path": "07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_01.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_01.png"
+  },
+  {
+   "path": "07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_02.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_02.png"
+  },
+  {
+   "path": "07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_03.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_03.png"
+  },
+  {
+   "path": "07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_04.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_04.png"
+  },
+  {
+   "path": "07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_05.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_05.png"
+  },
+  {
+   "path": "07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_06.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_06.png"
+  },
+  {
+   "path": "07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_07.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_07.png"
+  },
+  {
+   "path": "07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_08.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/02_Sitting/Naya_PoseRef_Sitting_08.png"
+  },
+  {
+   "path": "07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_01.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_01.png"
+  },
+  {
+   "path": "07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_02.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_02.png"
+  },
+  {
+   "path": "07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_03.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_03.png"
+  },
+  {
+   "path": "07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_04.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_04.png"
+  },
+  {
+   "path": "07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_05.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/03_Mirror-Selfie/Naya_PoseRef_Mirror_05.png"
+  },
+  {
+   "path": "07_Pose-Reference/04_Closeup-Selfie/Naya_PoseRef_Selfie_01.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/04_Closeup-Selfie/Naya_PoseRef_Selfie_01.png"
+  },
+  {
+   "path": "07_Pose-Reference/04_Closeup-Selfie/Naya_PoseRef_Selfie_02.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/04_Closeup-Selfie/Naya_PoseRef_Selfie_02.png"
+  },
+  {
+   "path": "07_Pose-Reference/04_Closeup-Selfie/Naya_PoseRef_Selfie_03.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/04_Closeup-Selfie/Naya_PoseRef_Selfie_03.png"
+  },
+  {
+   "path": "07_Pose-Reference/04_Closeup-Selfie/Naya_PoseRef_Selfie_04.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/04_Closeup-Selfie/Naya_PoseRef_Selfie_04.png"
+  },
+  {
+   "path": "07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_01.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_01.png"
+  },
+  {
+   "path": "07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_02.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_02.png"
+  },
+  {
+   "path": "07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_03.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_03.png"
+  },
+  {
+   "path": "07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_04.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_04.png"
+  },
+  {
+   "path": "07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_05.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_05.png"
+  },
+  {
+   "path": "07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_06.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/05_Candid-HalfBody/Naya_PoseRef_Candid_06.png"
+  },
+  {
+   "path": "07_Pose-Reference/06_Detail-Flatlay/Naya_PoseRef_Detail_01.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/06_Detail-Flatlay/Naya_PoseRef_Detail_01.png"
+  },
+  {
+   "path": "07_Pose-Reference/06_Detail-Flatlay/Naya_PoseRef_Detail_02.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/06_Detail-Flatlay/Naya_PoseRef_Detail_02.png"
+  },
+  {
+   "path": "07_Pose-Reference/06_Detail-Flatlay/Naya_PoseRef_Detail_03.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/06_Detail-Flatlay/Naya_PoseRef_Detail_03.png"
+  },
+  {
+   "path": "07_Pose-Reference/06_Detail-Flatlay/Naya_PoseRef_Detail_04.png",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/06_Detail-Flatlay/Naya_PoseRef_Detail_04.png"
+  },
+  {
+   "path": "07_Pose-Reference/_INDEX.md",
+   "category": "Pose-Reference",
+   "url": "https://raw.githubusercontent.com/aljihadjundy-oss/naya-assets/main/07_Pose-Reference/_INDEX.md"
+  }
+ ]
+}
